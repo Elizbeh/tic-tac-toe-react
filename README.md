@@ -78,10 +78,10 @@ This project helps you practice:
 ## 📸 Screenshots
 
 ### ➡️ Game Start
-![Game Start](./assets/game-start.png)
+![Game Start](./src/assets/game-start.png)
 
 ### ➡️ Game End
-![Game End](./assets/game-end.png)
+![Game End](./src/assets/game-end.png)
 
 
 ## License
